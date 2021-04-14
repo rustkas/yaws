@@ -26,6 +26,8 @@ debian packages):
  * erlang-xmerl
 * libpam0g-dev
 
+CentOS install: yum install pam-devel
+
 To build the documentation (optional), you also need to install:
 
 * texlive-latex-base
